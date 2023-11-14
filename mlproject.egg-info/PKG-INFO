@@ -3,6 +3,3 @@ Name: mlproject
 Version: 0.0.1
 Author: Rehan
 Author-email: rehanmakrani727@gmail.com
-Requires-Dist: pandas
-Requires-Dist: numpy
-Requires-Dist: seaborn
